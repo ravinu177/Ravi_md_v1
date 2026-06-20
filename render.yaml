@@ -1,15 +1,15 @@
 services:
   - type: web
-    name: star-xd
+    name: ravi_md
     runtime: docker
     dockerfilePath: lib/Dockerfile
     envVars:
       - key: SESSION_ID
         value: ""
       - key: OWNER_NUMBER
-        value: "2637000000000"
+        value: "94768223718"
       - key: BOT_NAME
-        value: "sᴛᴀʀ-xᴅ"
+        value: "RAVI_MD"
       - key: COMMAND_MODE
         value: "public"
       - key: TIMEZONE
