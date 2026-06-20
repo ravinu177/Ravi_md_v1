@@ -1,4 +1,4 @@
-app = "star-xd"
+app = "ravi_md"
 primary_region = "iad"
 
 [build]
@@ -6,11 +6,11 @@ primary_region = "iad"
 
 [env]
   PORT = "5000"
-  BOT_NAME = "sᴛᴀʀ-xᴅ"
+  BOT_NAME = "ravi_mᴅ"
   COMMAND_MODE = "public"
   TIMEZONE = "Africa/Harare"
   SESSION_ID = ""
-  OWNER_NUMBER = "26370000000"
+  OWNER_NUMBER = "94768223718"
   MONGO_URL = ""
   POSTGRES_URL = ""
   MYSQL_URL = ""
