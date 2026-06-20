@@ -1,10 +1,10 @@
 {
-  "bot-name": "star-xd",
-  "description": "STAR XD made for people on Earth By Malvin",
+  "bot-name": "ravi_md",
+  "description": "RAVI_MD made for people on Earth By RAVINU",
   "logo": "https://files.catbox.moe/m7cmfe.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://pair.malvintech.sbs",
-  "owner-verification": "malvintech2@gmail.com",
+  "owner-verification": "ravinulakshan18@gmail.com",
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here. Make sure it starts with king~, malvin~, or star~",
@@ -12,7 +12,7 @@
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 263xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g 94768223718",
       "value": "",
       "required": true
     },
