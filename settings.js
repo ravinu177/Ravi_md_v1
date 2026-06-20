@@ -1,4 +1,4 @@
-//=====💫 STAR XD 🔥====
+//=====💫 RAVI_MD 🔥====
 
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
@@ -39,20 +39,20 @@ export default {
   PREFIXES: ".",
 
   // Bot Pack Name
-  PACKNAME: "sᴛᴀʀ-xᴅ",
+  PACKNAME: "ravi_mᴅ",
 
   // Bot Name
-  BOT_NAME: "sᴛᴀʀ-xᴅ",
+  BOT_NAME: "ravi_mᴅ",
 
   // Add Owner WhatsApp Number (without +)
-  OWNER_NUMBER: "263725787000",
+  OWNER_NUMBER: "94768223718",
 
   // Command Mode: "public" or "private"
   // private = only owner can use commands
   COMMAND_MODE: "private",
 
   // Owner Name
-  BOT_OWNER: "ᴍʀ xᴅᴋɪɴɢ",
+  BOT_OWNER: "MD Raviᴋɪɴɢ",
 
   // Timezone
   TIMEZONE: "Africa/Harare"
