@@ -1,28 +1,28 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=STAR%20XD%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+  <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" width="100%">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=25D366&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-XD-REPO" alt="Typing SVG" /></a>
+<a href="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=25D366&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-XD-REPO" alt="Typing SVG" /></a>
 
-<a><img src='https://files.catbox.moe/bc4m5d.jpg' width="100%"/></a>
+<a><img src='https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg' width="100%"/></a>
 
 <!-- 📊 STATS & HERO ANIMATION -->
 <div align="center">
 
   <p>
-    <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=flat&color=orange&logo=github&logoColor=white&label=Forks" alt="Forks" />
-    <img src="https://img.shields.io/github/stars/XdKing2/star-xd?style=flat&color=gold&logo=github&logoColor=white&label=Stars" alt="Stars" />
-    <img src="https://img.shields.io/github/watchers/XdKing2/star-xd?style=flat&color=blue&logo=github&logoColor=white&label=Watchers" alt="Watchers" />
-    <img src="https://img.shields.io/github/last-commit/XdKing2/star-xd?style=flat&color=green&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/XdKing2/star-xd?style=flat&color=purple&logo=database&logoColor=white&label=Repo%20Size" alt="Size" />
-    <img src="https://img.shields.io/github/package-json/v/XdKing2/star-xd?style=flat&color=cyan&logo=npm&logoColor=white&label=Version" alt="Version" />
-    <img src="https://img.shields.io/github/license/XdKing2/star-xd?style=flat&color=red&logo=opensourceinitiative&logoColor=white&label=License" alt="License" />
-    <img src="https://img.shields.io/badge/Pre--built%20Image-Quay.io-25D366?style=flat&logo=docker&logoColor=white" alt="Docker Image" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Forks" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Stars" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Watchers" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Last Commit" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Size" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Version" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="License" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" />
   </p>
 
   <p>
-    <img src="https://i.imgur.com/LyHic3i.gif" alt="Animation" style="max-width:100%; border-radius:16px;" />
+    <img src="https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg" alt="Animation" style="max-width:100%; border-radius:16px;" />
   </p>
 
 </div>
