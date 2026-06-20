@@ -13,8 +13,8 @@ NC='\033[0m'
 
 echo -e "${CYAN}"
 echo "╔═══════════════════════════════════════╗"
-echo "║        STAR-XD Fly.io Deployer        ║"
-echo "║          by XdKing2           ║"
+echo "║        RAVI_MD Fly.io Deployer        ║"
+echo "║          by RAVIKing2           ║"
 echo "╚═══════════════════════════════════════╝"
 echo -e "${NC}"
 
@@ -36,7 +36,7 @@ echo -e "${BOLD}📋 Enter your bot details:${NC}"
 echo ""
 
 read -p "$(echo -e ${CYAN}App name (e.g. my-star-xd): ${NC})" APP_NAME
-APP_NAME=${APP_NAME:-star-xd-bot}
+APP_NAME=${APP_NAME:-ravi_md-bot}
 
 read -p "$(echo -e ${CYAN}Session ID (star~xxxxx): ${NC})" SESSION_ID
 if [ -z "$SESSION_ID" ]; then
@@ -44,11 +44,11 @@ if [ -z "$SESSION_ID" ]; then
     exit 1
 fi
 
-read -p "$(echo -e ${CYAN}Owner WhatsApp number (e.g. 263712345678): ${NC})" OWNER_NUMBER
-OWNER_NUMBER=${OWNER_NUMBER:-263710000000}
+read -p "$(echo -e ${CYAN}Owner WhatsApp number (e.g. 94768223718): ${NC})" OWNER_NUMBER
+OWNER_NUMBER=${OWNER_NUMBER:-94768223718}
 
-read -p "$(echo -e ${CYAN}Bot name (default: STAR-XD): ${NC})" BOT_NAME
-BOT_NAME=${BOT_NAME:-STAR-XD}
+read -p "$(echo -e ${CYAN}Bot name (default: RAVI_MD): ${NC})" BOT_NAME
+BOT_NAME=${BOT_NAME:-RAVI_MD}
 
 read -p "$(echo -e ${CYAN}MongoDB URL (recommended, press Enter to skip): ${NC})" MONGO_URL
 
@@ -65,8 +65,8 @@ echo ""
 # Clone if not in repo
 if [ ! -f "fly.toml" ]; then
     echo -e "${YELLOW}📦 Cloning STAR-XD repo...${NC}"
-    git clone https://github.com/XdKing2/star-xd star-xd-deploy
-    cd star-xd-deploy
+    git clone https://github.com/XdKing2/ravi_md ravi_md-deploy
+    cd ravi_md-deploy
 fi
 
 # Update app name and region in fly.toml
