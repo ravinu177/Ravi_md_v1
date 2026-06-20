@@ -1,5 +1,5 @@
 {
-  "name": "star-xd",
+  "name": "ravi_md",
   "version": "3.5.0",
   "description": "Ultra performance multi-device WhatsApp bot by Malvin Tech",
   "type": "module",
@@ -28,22 +28,22 @@
   "keywords": [
     "whatsapp-bot",
     "baileys-bot",
-    "MALVIN-XD",
-    "star-xd",
+    "RAVI_MD",
+    "ravi_md",
     "multi-device",
     "nodejs-bot",
     "javascript-bot"
   ],
-  "homepage": "https://github.com/XdKing2/star-xd",
+  "homepage": "https://github.com/RAVI_md_v12/ravi_md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XdKing2/star-xd.git"
+    "url": "https://github.com/RAVI_md_v12/ravi_md"
   },
   "bugs": {
-    "url": "https://github.com/XdKing2/star-xd/issues"
+    "url": "https://github.com/RAVI_md_v12/ravi_md/issues"
   },
   "license": "MIT",
-  "author": "Malvin King",
+  "author": "RAVI King",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^7.0.0-rc.9",
