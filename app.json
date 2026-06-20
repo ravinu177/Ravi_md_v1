@@ -1,8 +1,8 @@
 {
-  "name": "star-xd",
-  "description": "Ultra performance multi-device WhatsApp bot by Malvin Tech",
-  "keywords": ["whatsapp-bot", "baileys", "star-xd"],
-  "repository": "https://github.com/XdKing2/star-xd",
+  "name": "ravi_md",
+  "description": "Ultra performance multi-device WhatsApp bot by RAVINU Tech",
+  "keywords": ["whatsapp-bot", "baileys", "ravi_md"],
+  "repository": "https://github.com/RAVI_md_v12/ravi_md",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -11,9 +11,9 @@
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (e.g. 263701234567)",
+      "description": "Your WhatsApp number with country code (e.g. 94768223718)",
       "required": true,
-      "value": "263000000000"
+      "value": "94768223718"
     },
     "MONGO_URL": {
       "description": "MongoDB URL for persistent storage (recommended for Heroku)",
@@ -33,12 +33,12 @@
     "BOT_NAME": {
       "description": "Your bot name",
       "required": false,
-      "value": "sᴛᴀʀ-xᴅ"
+      "value": "RAVI_Md"
     },
     "BOT_OWNER": {
       "description": "Owner display name",
       "required": false,
-      "value": "ᴍʀ xᴅᴋɪɴɢ"
+      "value": "md Raviᴋɪɴɢ"
     },
     "PREFIXES": {
       "description": "Command prefixes separated by comma (e.g. .,!,/)",
